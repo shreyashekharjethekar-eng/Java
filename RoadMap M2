@@ -1,0 +1,151 @@
+☕ Java Basics Revision Roadmap
+🟢 Phase 1 — Classes & Objects
+
+Start here.
+
+*Create a Student class with fields like name, age, marks.
+*Create objects and print their data.
+*Create a Car class and initialize multiple objects.
+*Add methods like displayDetails().
+*Create a Rectangle class with methods for area and perimeter.
+*Create an Employee class and calculate annual salary.
+*Create a Book class and display book information.
+*Create a BankAccount class with deposit() and withdraw() methods.
+
+Concepts:
+class, object, fields, methods, object creation, instance variables.
+
+🟢 Phase 2 — Constructors
+Create a Student using a default constructor.
+Create a Student using a parameterized constructor.
+Create a Book with multiple constructors.
+Demonstrate constructor overloading.
+Create an Employee class using this.
+
+Concepts:
+constructors, this, constructor overloading.
+
+🟢 Phase 3 — Methods
+Method with no parameters/no return value.
+Method with parameters/no return value.
+Method with parameters/return value.
+Method with no parameters/return value.
+Create a calculator using methods.
+Create methods to check:
+even/odd
+positive/negative
+prime number
+palindrome
+factorial
+
+Concepts:
+parameters, return values, method calling, method overloading.
+
+🟡 Phase 4 — Variables & Modifiers
+Demonstrate local, instance, and static variables.
+Create a Counter class using a static variable.
+Create a program demonstrating static methods.
+Use final variables.
+Create a class with private fields and access them through methods.
+
+Concepts:
+static, final, access modifiers, scope.
+
+🟡 Phase 5 — Encapsulation
+Create a Student class with private fields.
+Add getters and setters.
+Validate marks before setting them.
+Create a BankAccount with controlled deposit/withdrawal.
+Create an Employee class where salary cannot be negative.
+
+Concepts:
+private, getters/setters, data hiding, validation.
+
+🟡 Phase 6 — Inheritance
+Animal → Dog
+Vehicle → Car
+Employee → Manager
+Demonstrate single-level inheritance.
+Demonstrate multilevel inheritance.
+Demonstrate hierarchical inheritance.
+Use super to access parent members.
+Use super() to call a parent constructor.
+
+Concepts:
+extends, super, parent/child classes.
+
+🟠 Phase 7 — Polymorphism
+Method overloading calculator.
+Method overriding using Animal → Dog/Cat.
+Create a Shape class with overridden area().
+Demonstrate upcasting.
+Demonstrate runtime method dispatch.
+
+Concepts:
+overloading, overriding, upcasting, runtime polymorphism.
+
+🟠 Phase 8 — Abstraction
+Create an abstract Shape class.
+Create Circle, Rectangle, Triangle.
+Create an abstract Employee class.
+Create an interface Payment.
+Implement it using UPIPayment, CardPayment, CashPayment.
+Demonstrate multiple interfaces.
+
+Concepts:
+abstract, abstract methods, interfaces, implements.
+
+🔵 Phase 9 — Arrays & Strings
+Find largest/smallest element in an array.
+Calculate sum and average.
+Reverse an array.
+Sort an array.
+Search for an element.
+Find duplicate elements.
+Count frequency of elements.
+Reverse a String.
+Check String palindrome.
+Count vowels/consonants.
+Count words.
+Find duplicate characters.
+
+Concepts:
+arrays, String, StringBuilder, loops.
+
+🔵 Phase 10 — Exception Handling
+Handle division by zero.
+Handle invalid array index.
+Handle invalid number input.
+Use try-catch-finally.
+Use multiple catch blocks.
+Create your own exception: InvalidAgeException.
+Create a bank withdrawal exception.
+
+Concepts:
+try, catch, finally, throw, throws, custom exceptions.
+
+🟣 Phase 11 — Collections
+
+Then move to:
+
+ArrayList — add/remove/search elements.
+LinkedList.
+HashSet — remove duplicates.
+HashMap — student name → marks.
+Iterate using enhanced for.
+Iterate using Iterator.
+Sort an ArrayList.
+Find frequency using HashMap.
+
+Concepts:
+List, Set, Map, generics, iterators.
+
+🟣 Phase 12 — File Handling
+Write data to a file.
+Read data from a file.
+Append data.
+Count lines/words in a file.
+Store student records in a file.
+
+Concepts:
+File, FileReader, FileWriter, buffering, exceptions.
